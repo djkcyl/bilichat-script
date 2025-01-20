@@ -1,0 +1,13 @@
+{
+  "name": "bilichat-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mobile_style.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djkcyl/mobile-style"
+  }
+}
