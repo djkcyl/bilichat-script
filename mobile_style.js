@@ -12,7 +12,7 @@ async function getMobileStyle(useImageBig = true) {
         // 获取更多 dom
         readMoreDoms: [".opus-read-more"],
         // 全屏弹出 Dom
-        openAppDialogDoms: [],
+        openAppDialogDoms: [".openapp-mask"],
         // 评论区 dom
         commentsDoms: [".v-switcher"],
         // 打开商品 dom
