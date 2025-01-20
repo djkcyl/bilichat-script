@@ -1,10 +1,3 @@
-/*
- * @Author: KBD
- * @Date: 2022-12-26 13:45:30
- * @LastEditors: djkcyl
- * @LastEditTime: 2025-01-09 21:29:00
- * @Description: 用于初始化手机动态页面的样式以及图片大小
- */
 async function getMobileStyle(useImageBig = true) {
     // 删除 dom 的对象, 可以自行添加 ( className 需要增加 '.' 为前缀, id 需要增加 '#' 为前缀)
     const deleteDoms = {
